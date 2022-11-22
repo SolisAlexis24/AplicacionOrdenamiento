@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ordenamiento</string>
+    <string name="bubbleDesc">El ordenamiento de Burbuja es un ejemplo clásico de ordenación por comparación, éste compara todos los elementos de una lista contra todos los demás (recorriendo el arreglo n-1 veces), si se cumple que uno es mayor a otro entonces se intercambian de posición. El orden de este algoritmo en la notación de Big O es de O(n^2). A continuación se muestran algunas de sus implementaciones en distintos lenguajes:</string>
+</resources>
